@@ -4,7 +4,7 @@ BloomMama is a digital platform designed to support mothers through their journe
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 📊 Performance & Progress Tracking  
   Track daily activities, habits, and improvements over time.
@@ -23,25 +23,12 @@ BloomMama is a digital platform designed to support mothers through their journe
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Frontend:** Swift / UIKit (iOS Development)  
-- **Backend:** (Add your backend here – e.g., Firebase / Node.js)  
-- **Machine Learning:** (Optional – CoreML / Vision)  
-- **Database:** (e.g., Firebase Firestore / MongoDB)
-
----
-
 ## 📂 Project Structure
 BloomMama/
 │── App/
 │ ├── UI/
 │ ├── ViewControllers/
 │ └── Assets/
-│
-│── Services/
-│ ├── DataProcessing/
-│ └── API/
 │
 │── Models/
 │
